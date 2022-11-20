@@ -1,0 +1,15 @@
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\bin\Debug\net6.0\HashTableProj.exe
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\bin\Debug\net6.0\HashTableProj.deps.json
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\bin\Debug\net6.0\HashTableProj.runtimeconfig.json
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\bin\Debug\net6.0\HashTableProj.dll
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\bin\Debug\net6.0\HashTableProj.pdb
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.csproj.AssemblyReference.cache
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.AssemblyInfoInputs.cache
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.AssemblyInfo.cs
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.dll
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\refint\HashTableProj.dll
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.pdb
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\HashTableProj.genruntimeconfig.cache
+D:\Coding and programs\Collections\HashTableProj\HashTableProj\obj\Debug\net6.0\ref\HashTableProj.dll

@@ -1,0 +1,15 @@
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.csproj.AssemblyReference.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.AssemblyInfoInputs.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.AssemblyInfo.cs
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\bin\Debug\net6.0\FirstProgramConstructor.exe
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\bin\Debug\net6.0\FirstProgramConstructor.deps.json
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\bin\Debug\net6.0\FirstProgramConstructor.runtimeconfig.json
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\bin\Debug\net6.0\FirstProgramConstructor.dll
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\bin\Debug\net6.0\FirstProgramConstructor.pdb
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.dll
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\refint\FirstProgramConstructor.dll
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.pdb
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\FirstProgramConstructor.genruntimeconfig.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\FirstProgramConstructor\obj\Debug\net6.0\ref\FirstProgramConstructor.dll

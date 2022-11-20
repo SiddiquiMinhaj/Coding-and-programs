@@ -1,0 +1,15 @@
+D:\Coding and programs\PropProj\PropProj\bin\Debug\net6.0\PropProj.exe
+D:\Coding and programs\PropProj\PropProj\bin\Debug\net6.0\PropProj.deps.json
+D:\Coding and programs\PropProj\PropProj\bin\Debug\net6.0\PropProj.runtimeconfig.json
+D:\Coding and programs\PropProj\PropProj\bin\Debug\net6.0\PropProj.dll
+D:\Coding and programs\PropProj\PropProj\bin\Debug\net6.0\PropProj.pdb
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.csproj.AssemblyReference.cache
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.AssemblyInfoInputs.cache
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.AssemblyInfo.cs
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.dll
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\refint\PropProj.dll
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.pdb
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\PropProj.genruntimeconfig.cache
+D:\Coding and programs\PropProj\PropProj\obj\Debug\net6.0\ref\PropProj.dll

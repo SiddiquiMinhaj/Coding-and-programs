@@ -1,0 +1,15 @@
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.exe
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.deps.json
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.runtimeconfig.json
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.dll
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\bin\Debug\net6.0\InheritanceExamples.pdb
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.csproj.AssemblyReference.cache
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.AssemblyInfoInputs.cache
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.AssemblyInfo.cs
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.csproj.CoreCompileInputs.cache
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.dll
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\refint\InheritanceExamples.dll
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.pdb
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\InheritanceExamples.genruntimeconfig.cache
+D:\Coding and programs\InheritanceExamples\InheritanceExamples\obj\Debug\net6.0\ref\InheritanceExamples.dll

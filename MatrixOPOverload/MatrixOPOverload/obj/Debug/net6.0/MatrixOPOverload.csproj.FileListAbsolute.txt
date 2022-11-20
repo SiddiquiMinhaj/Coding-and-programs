@@ -1,0 +1,15 @@
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.csproj.AssemblyReference.cache
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.AssemblyInfoInputs.cache
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.AssemblyInfo.cs
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.csproj.CoreCompileInputs.cache
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\bin\Debug\net6.0\MatrixOPOverload.exe
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\bin\Debug\net6.0\MatrixOPOverload.deps.json
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\bin\Debug\net6.0\MatrixOPOverload.runtimeconfig.json
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\bin\Debug\net6.0\MatrixOPOverload.dll
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\bin\Debug\net6.0\MatrixOPOverload.pdb
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.dll
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\refint\MatrixOPOverload.dll
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.pdb
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\MatrixOPOverload.genruntimeconfig.cache
+D:\Coding and programs\MatrixOPOverload\MatrixOPOverload\obj\Debug\net6.0\ref\MatrixOPOverload.dll

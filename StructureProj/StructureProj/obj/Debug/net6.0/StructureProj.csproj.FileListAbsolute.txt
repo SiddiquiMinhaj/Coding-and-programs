@@ -1,0 +1,15 @@
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.csproj.AssemblyReference.cache
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.AssemblyInfoInputs.cache
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.AssemblyInfo.cs
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\StructureProj\StructureProj\bin\Debug\net6.0\StructureProj.exe
+D:\Coding and programs\StructureProj\StructureProj\bin\Debug\net6.0\StructureProj.deps.json
+D:\Coding and programs\StructureProj\StructureProj\bin\Debug\net6.0\StructureProj.runtimeconfig.json
+D:\Coding and programs\StructureProj\StructureProj\bin\Debug\net6.0\StructureProj.dll
+D:\Coding and programs\StructureProj\StructureProj\bin\Debug\net6.0\StructureProj.pdb
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.dll
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\refint\StructureProj.dll
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.pdb
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\StructureProj.genruntimeconfig.cache
+D:\Coding and programs\StructureProj\StructureProj\obj\Debug\net6.0\ref\StructureProj.dll

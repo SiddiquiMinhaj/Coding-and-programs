@@ -1,0 +1,15 @@
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\bin\Debug\net6.0\GenericCollectionProj.exe
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\bin\Debug\net6.0\GenericCollectionProj.deps.json
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\bin\Debug\net6.0\GenericCollectionProj.runtimeconfig.json
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\bin\Debug\net6.0\GenericCollectionProj.dll
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\bin\Debug\net6.0\GenericCollectionProj.pdb
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.csproj.AssemblyReference.cache
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.AssemblyInfoInputs.cache
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.AssemblyInfo.cs
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.dll
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\refint\GenericCollectionProj.dll
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.pdb
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\GenericCollectionProj.genruntimeconfig.cache
+D:\Coding and programs\Collections\GenericCollectionProj\GenericCollectionProj\obj\Debug\net6.0\ref\GenericCollectionProj.dll

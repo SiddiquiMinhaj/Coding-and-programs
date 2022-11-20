@@ -1,0 +1,15 @@
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.csproj.AssemblyReference.cache
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.AssemblyInfoInputs.cache
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.AssemblyInfo.cs
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.csproj.CoreCompileInputs.cache
+D:\Coding and programs\InterfaceProject\InterfaceProject\bin\Debug\net6.0\InterfaceProject.exe
+D:\Coding and programs\InterfaceProject\InterfaceProject\bin\Debug\net6.0\InterfaceProject.deps.json
+D:\Coding and programs\InterfaceProject\InterfaceProject\bin\Debug\net6.0\InterfaceProject.runtimeconfig.json
+D:\Coding and programs\InterfaceProject\InterfaceProject\bin\Debug\net6.0\InterfaceProject.dll
+D:\Coding and programs\InterfaceProject\InterfaceProject\bin\Debug\net6.0\InterfaceProject.pdb
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.dll
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\refint\InterfaceProject.dll
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.pdb
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\InterfaceProject.genruntimeconfig.cache
+D:\Coding and programs\InterfaceProject\InterfaceProject\obj\Debug\net6.0\ref\InterfaceProject.dll

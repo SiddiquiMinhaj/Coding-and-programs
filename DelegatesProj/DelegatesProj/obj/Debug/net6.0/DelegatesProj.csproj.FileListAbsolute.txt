@@ -1,0 +1,15 @@
+D:\Coding and programs\DelegatesProj\DelegatesProj\bin\Debug\net6.0\DelegatesProj.exe
+D:\Coding and programs\DelegatesProj\DelegatesProj\bin\Debug\net6.0\DelegatesProj.deps.json
+D:\Coding and programs\DelegatesProj\DelegatesProj\bin\Debug\net6.0\DelegatesProj.runtimeconfig.json
+D:\Coding and programs\DelegatesProj\DelegatesProj\bin\Debug\net6.0\DelegatesProj.dll
+D:\Coding and programs\DelegatesProj\DelegatesProj\bin\Debug\net6.0\DelegatesProj.pdb
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.csproj.AssemblyReference.cache
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.AssemblyInfoInputs.cache
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.AssemblyInfo.cs
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.dll
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\refint\DelegatesProj.dll
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.pdb
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\DelegatesProj.genruntimeconfig.cache
+D:\Coding and programs\DelegatesProj\DelegatesProj\obj\Debug\net6.0\ref\DelegatesProj.dll

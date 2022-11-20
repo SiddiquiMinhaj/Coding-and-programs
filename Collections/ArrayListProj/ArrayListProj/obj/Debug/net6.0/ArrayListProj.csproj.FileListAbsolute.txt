@@ -1,0 +1,15 @@
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\bin\Debug\net6.0\ArrayListProj.exe
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\bin\Debug\net6.0\ArrayListProj.deps.json
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\bin\Debug\net6.0\ArrayListProj.runtimeconfig.json
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\bin\Debug\net6.0\ArrayListProj.dll
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\bin\Debug\net6.0\ArrayListProj.pdb
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.csproj.AssemblyReference.cache
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.AssemblyInfoInputs.cache
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.AssemblyInfo.cs
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.dll
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\refint\ArrayListProj.dll
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.pdb
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ArrayListProj.genruntimeconfig.cache
+D:\Coding and programs\Collections\ArrayListProj\ArrayListProj\obj\Debug\net6.0\ref\ArrayListProj.dll

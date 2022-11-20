@@ -1,0 +1,30 @@
+E:\Coding and programs\MySolution\AccessDemo1\bin\Debug\net6.0\AccessDemo1.exe
+E:\Coding and programs\MySolution\AccessDemo1\bin\Debug\net6.0\AccessDemo1.deps.json
+E:\Coding and programs\MySolution\AccessDemo1\bin\Debug\net6.0\AccessDemo1.runtimeconfig.json
+E:\Coding and programs\MySolution\AccessDemo1\bin\Debug\net6.0\AccessDemo1.dll
+E:\Coding and programs\MySolution\AccessDemo1\bin\Debug\net6.0\AccessDemo1.pdb
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.csproj.AssemblyReference.cache
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.AssemblyInfoInputs.cache
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.AssemblyInfo.cs
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.csproj.CoreCompileInputs.cache
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.dll
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\refint\AccessDemo1.dll
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.pdb
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\AccessDemo1.genruntimeconfig.cache
+E:\Coding and programs\MySolution\AccessDemo1\obj\Debug\net6.0\ref\AccessDemo1.dll
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\bin\Debug\net6.0\AccessDemo1.exe
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\bin\Debug\net6.0\AccessDemo1.deps.json
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\bin\Debug\net6.0\AccessDemo1.runtimeconfig.json
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\bin\Debug\net6.0\AccessDemo1.dll
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\bin\Debug\net6.0\AccessDemo1.pdb
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.csproj.AssemblyReference.cache
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.AssemblyInfoInputs.cache
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.AssemblyInfo.cs
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.dll
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\refint\AccessDemo1.dll
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.pdb
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\AccessDemo1.genruntimeconfig.cache
+D:\Coding and programs\Coding and programs\AccessSpecifires\AccessDemo1\obj\Debug\net6.0\ref\AccessDemo1.dll

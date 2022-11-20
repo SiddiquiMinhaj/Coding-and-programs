@@ -1,0 +1,15 @@
+D:\Coding and programs\VariablesAll\VariablesAll\bin\Debug\net6.0\VariablesAll.exe
+D:\Coding and programs\VariablesAll\VariablesAll\bin\Debug\net6.0\VariablesAll.deps.json
+D:\Coding and programs\VariablesAll\VariablesAll\bin\Debug\net6.0\VariablesAll.runtimeconfig.json
+D:\Coding and programs\VariablesAll\VariablesAll\bin\Debug\net6.0\VariablesAll.dll
+D:\Coding and programs\VariablesAll\VariablesAll\bin\Debug\net6.0\VariablesAll.pdb
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.csproj.AssemblyReference.cache
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.AssemblyInfoInputs.cache
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.AssemblyInfo.cs
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.csproj.CoreCompileInputs.cache
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.dll
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\refint\VariablesAll.dll
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.pdb
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\VariablesAll.genruntimeconfig.cache
+D:\Coding and programs\VariablesAll\VariablesAll\obj\Debug\net6.0\ref\VariablesAll.dll

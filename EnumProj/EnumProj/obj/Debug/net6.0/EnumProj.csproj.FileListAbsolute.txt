@@ -1,0 +1,15 @@
+D:\Coding and programs\EnumProj\EnumProj\bin\Debug\net6.0\EnumProj.exe
+D:\Coding and programs\EnumProj\EnumProj\bin\Debug\net6.0\EnumProj.deps.json
+D:\Coding and programs\EnumProj\EnumProj\bin\Debug\net6.0\EnumProj.runtimeconfig.json
+D:\Coding and programs\EnumProj\EnumProj\bin\Debug\net6.0\EnumProj.dll
+D:\Coding and programs\EnumProj\EnumProj\bin\Debug\net6.0\EnumProj.pdb
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.csproj.AssemblyReference.cache
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.AssemblyInfoInputs.cache
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.AssemblyInfo.cs
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.dll
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\refint\EnumProj.dll
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.pdb
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\EnumProj.genruntimeconfig.cache
+D:\Coding and programs\EnumProj\EnumProj\obj\Debug\net6.0\ref\EnumProj.dll

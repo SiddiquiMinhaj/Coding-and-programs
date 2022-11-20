@@ -1,0 +1,15 @@
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\bin\Debug\net6.0\OpratorOverloading.exe
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\bin\Debug\net6.0\OpratorOverloading.deps.json
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\bin\Debug\net6.0\OpratorOverloading.runtimeconfig.json
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\bin\Debug\net6.0\OpratorOverloading.dll
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\bin\Debug\net6.0\OpratorOverloading.pdb
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.csproj.AssemblyReference.cache
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.AssemblyInfoInputs.cache
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.AssemblyInfo.cs
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.csproj.CoreCompileInputs.cache
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.dll
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\refint\OpratorOverloading.dll
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.pdb
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\OpratorOverloading.genruntimeconfig.cache
+D:\Coding and programs\OpratorOverloading\OpratorOverloading\obj\Debug\net6.0\ref\OpratorOverloading.dll

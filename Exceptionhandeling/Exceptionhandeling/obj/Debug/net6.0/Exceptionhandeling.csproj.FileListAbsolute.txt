@@ -1,0 +1,15 @@
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\bin\Debug\net6.0\Exceptionhandeling.exe
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\bin\Debug\net6.0\Exceptionhandeling.deps.json
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\bin\Debug\net6.0\Exceptionhandeling.runtimeconfig.json
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\bin\Debug\net6.0\Exceptionhandeling.dll
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\bin\Debug\net6.0\Exceptionhandeling.pdb
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.csproj.AssemblyReference.cache
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.AssemblyInfoInputs.cache
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.AssemblyInfo.cs
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.dll
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\refint\Exceptionhandeling.dll
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.pdb
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\Exceptionhandeling.genruntimeconfig.cache
+D:\Coding and programs\Exceptionhandeling\Exceptionhandeling\obj\Debug\net6.0\ref\Exceptionhandeling.dll

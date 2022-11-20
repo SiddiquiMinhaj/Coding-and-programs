@@ -1,0 +1,15 @@
+D:\Coding and programs\PropertyProj\PropertyProj\bin\Debug\net6.0\PropertyProj.exe
+D:\Coding and programs\PropertyProj\PropertyProj\bin\Debug\net6.0\PropertyProj.deps.json
+D:\Coding and programs\PropertyProj\PropertyProj\bin\Debug\net6.0\PropertyProj.runtimeconfig.json
+D:\Coding and programs\PropertyProj\PropertyProj\bin\Debug\net6.0\PropertyProj.dll
+D:\Coding and programs\PropertyProj\PropertyProj\bin\Debug\net6.0\PropertyProj.pdb
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.csproj.AssemblyReference.cache
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.AssemblyInfoInputs.cache
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.AssemblyInfo.cs
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.dll
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\refint\PropertyProj.dll
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.pdb
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\PropertyProj.genruntimeconfig.cache
+D:\Coding and programs\PropertyProj\PropertyProj\obj\Debug\net6.0\ref\PropertyProj.dll

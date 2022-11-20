@@ -1,0 +1,15 @@
+D:\Coding and programs\IndexerProj\IndexerProj\bin\Debug\net6.0\IndexerProj.exe
+D:\Coding and programs\IndexerProj\IndexerProj\bin\Debug\net6.0\IndexerProj.deps.json
+D:\Coding and programs\IndexerProj\IndexerProj\bin\Debug\net6.0\IndexerProj.runtimeconfig.json
+D:\Coding and programs\IndexerProj\IndexerProj\bin\Debug\net6.0\IndexerProj.dll
+D:\Coding and programs\IndexerProj\IndexerProj\bin\Debug\net6.0\IndexerProj.pdb
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.csproj.AssemblyReference.cache
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.AssemblyInfoInputs.cache
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.AssemblyInfo.cs
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.dll
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\refint\IndexerProj.dll
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.pdb
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\IndexerProj.genruntimeconfig.cache
+D:\Coding and programs\IndexerProj\IndexerProj\obj\Debug\net6.0\ref\IndexerProj.dll

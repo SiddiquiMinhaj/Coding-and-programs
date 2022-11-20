@@ -1,0 +1,15 @@
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\bin\Debug\net6.0\MethodHidingProject.exe
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\bin\Debug\net6.0\MethodHidingProject.deps.json
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\bin\Debug\net6.0\MethodHidingProject.runtimeconfig.json
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\bin\Debug\net6.0\MethodHidingProject.dll
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\bin\Debug\net6.0\MethodHidingProject.pdb
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.csproj.AssemblyReference.cache
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.AssemblyInfoInputs.cache
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.AssemblyInfo.cs
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.csproj.CoreCompileInputs.cache
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.dll
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\refint\MethodHidingProject.dll
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.pdb
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\MethodHidingProject.genruntimeconfig.cache
+D:\Coding and programs\MethodHidingProject\MethodHidingProject\obj\Debug\net6.0\ref\MethodHidingProject.dll

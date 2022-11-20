@@ -1,0 +1,15 @@
+D:\Coding and programs\Collections\IComarProj\IComarProj\bin\Debug\net6.0\IComarProj.exe
+D:\Coding and programs\Collections\IComarProj\IComarProj\bin\Debug\net6.0\IComarProj.deps.json
+D:\Coding and programs\Collections\IComarProj\IComarProj\bin\Debug\net6.0\IComarProj.runtimeconfig.json
+D:\Coding and programs\Collections\IComarProj\IComarProj\bin\Debug\net6.0\IComarProj.dll
+D:\Coding and programs\Collections\IComarProj\IComarProj\bin\Debug\net6.0\IComarProj.pdb
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.csproj.AssemblyReference.cache
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.AssemblyInfoInputs.cache
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.AssemblyInfo.cs
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.dll
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\refint\IComarProj.dll
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.pdb
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\IComarProj.genruntimeconfig.cache
+D:\Coding and programs\Collections\IComarProj\IComarProj\obj\Debug\net6.0\ref\IComarProj.dll

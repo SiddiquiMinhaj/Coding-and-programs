@@ -1,0 +1,15 @@
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\bin\Debug\net6.0\ThreadPerformance.exe
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\bin\Debug\net6.0\ThreadPerformance.deps.json
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\bin\Debug\net6.0\ThreadPerformance.runtimeconfig.json
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\bin\Debug\net6.0\ThreadPerformance.dll
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\bin\Debug\net6.0\ThreadPerformance.pdb
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.csproj.AssemblyReference.cache
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.AssemblyInfoInputs.cache
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.AssemblyInfo.cs
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.csproj.CoreCompileInputs.cache
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.dll
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\refint\ThreadPerformance.dll
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.pdb
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ThreadPerformance.genruntimeconfig.cache
+D:\Coding and programs\ThreadPerformance\ThreadPerformance\obj\Debug\net6.0\ref\ThreadPerformance.dll

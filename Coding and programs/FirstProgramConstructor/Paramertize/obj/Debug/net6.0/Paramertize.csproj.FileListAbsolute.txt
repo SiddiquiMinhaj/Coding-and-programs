@@ -1,0 +1,15 @@
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\bin\Debug\net6.0\Paramertize.exe
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\bin\Debug\net6.0\Paramertize.deps.json
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\bin\Debug\net6.0\Paramertize.runtimeconfig.json
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\bin\Debug\net6.0\Paramertize.dll
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\bin\Debug\net6.0\Paramertize.pdb
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.csproj.AssemblyReference.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.AssemblyInfoInputs.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.AssemblyInfo.cs
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.dll
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\refint\Paramertize.dll
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.pdb
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\Paramertize.genruntimeconfig.cache
+D:\Coding and programs\Coding and programs\FirstProgramConstructor\Paramertize\obj\Debug\net6.0\ref\Paramertize.dll

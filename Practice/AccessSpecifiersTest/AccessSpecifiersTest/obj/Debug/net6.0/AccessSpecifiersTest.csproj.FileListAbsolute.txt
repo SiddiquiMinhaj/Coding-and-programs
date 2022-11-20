@@ -1,0 +1,15 @@
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\bin\Debug\net6.0\AccessSpecifiersTest.exe
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\bin\Debug\net6.0\AccessSpecifiersTest.deps.json
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\bin\Debug\net6.0\AccessSpecifiersTest.runtimeconfig.json
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\bin\Debug\net6.0\AccessSpecifiersTest.dll
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\bin\Debug\net6.0\AccessSpecifiersTest.pdb
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.csproj.AssemblyReference.cache
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.AssemblyInfoInputs.cache
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.AssemblyInfo.cs
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.dll
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\refint\AccessSpecifiersTest.dll
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.pdb
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\AccessSpecifiersTest.genruntimeconfig.cache
+D:\Coding and programs\Practice\AccessSpecifiersTest\AccessSpecifiersTest\obj\Debug\net6.0\ref\AccessSpecifiersTest.dll

@@ -1,0 +1,15 @@
+D:\Coding and programs\Collections\CompareValue\CompareValue\bin\Debug\net6.0\CompareValue.exe
+D:\Coding and programs\Collections\CompareValue\CompareValue\bin\Debug\net6.0\CompareValue.deps.json
+D:\Coding and programs\Collections\CompareValue\CompareValue\bin\Debug\net6.0\CompareValue.runtimeconfig.json
+D:\Coding and programs\Collections\CompareValue\CompareValue\bin\Debug\net6.0\CompareValue.dll
+D:\Coding and programs\Collections\CompareValue\CompareValue\bin\Debug\net6.0\CompareValue.pdb
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.csproj.AssemblyReference.cache
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.AssemblyInfoInputs.cache
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.AssemblyInfo.cs
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.csproj.CoreCompileInputs.cache
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.dll
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\refint\CompareValue.dll
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.pdb
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\CompareValue.genruntimeconfig.cache
+D:\Coding and programs\Collections\CompareValue\CompareValue\obj\Debug\net6.0\ref\CompareValue.dll

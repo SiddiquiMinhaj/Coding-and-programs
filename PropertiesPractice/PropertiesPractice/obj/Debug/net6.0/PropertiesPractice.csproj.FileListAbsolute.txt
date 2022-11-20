@@ -1,0 +1,15 @@
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\bin\Debug\net6.0\PropertiesPractice.exe
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\bin\Debug\net6.0\PropertiesPractice.deps.json
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\bin\Debug\net6.0\PropertiesPractice.runtimeconfig.json
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\bin\Debug\net6.0\PropertiesPractice.dll
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\bin\Debug\net6.0\PropertiesPractice.pdb
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.csproj.AssemblyReference.cache
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.AssemblyInfoInputs.cache
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.AssemblyInfo.cs
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.csproj.CoreCompileInputs.cache
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.dll
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\refint\PropertiesPractice.dll
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.pdb
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\PropertiesPractice.genruntimeconfig.cache
+D:\Coding and programs\PropertiesPractice\PropertiesPractice\obj\Debug\net6.0\ref\PropertiesPractice.dll

@@ -1,0 +1,15 @@
+D:\Coding and programs\OverridingProject\OverridingProject\bin\Debug\net6.0\OverridingProject.exe
+D:\Coding and programs\OverridingProject\OverridingProject\bin\Debug\net6.0\OverridingProject.deps.json
+D:\Coding and programs\OverridingProject\OverridingProject\bin\Debug\net6.0\OverridingProject.runtimeconfig.json
+D:\Coding and programs\OverridingProject\OverridingProject\bin\Debug\net6.0\OverridingProject.dll
+D:\Coding and programs\OverridingProject\OverridingProject\bin\Debug\net6.0\OverridingProject.pdb
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.csproj.AssemblyReference.cache
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.AssemblyInfoInputs.cache
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.AssemblyInfo.cs
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.csproj.CoreCompileInputs.cache
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.dll
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\refint\OverridingProject.dll
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.pdb
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\OverridingProject.genruntimeconfig.cache
+D:\Coding and programs\OverridingProject\OverridingProject\obj\Debug\net6.0\ref\OverridingProject.dll

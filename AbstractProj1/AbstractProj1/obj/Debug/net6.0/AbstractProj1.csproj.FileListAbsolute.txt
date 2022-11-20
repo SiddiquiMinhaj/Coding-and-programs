@@ -1,0 +1,15 @@
+D:\Coding and programs\AbstractProj1\AbstractProj1\bin\Debug\net6.0\AbstractProj1.exe
+D:\Coding and programs\AbstractProj1\AbstractProj1\bin\Debug\net6.0\AbstractProj1.deps.json
+D:\Coding and programs\AbstractProj1\AbstractProj1\bin\Debug\net6.0\AbstractProj1.runtimeconfig.json
+D:\Coding and programs\AbstractProj1\AbstractProj1\bin\Debug\net6.0\AbstractProj1.dll
+D:\Coding and programs\AbstractProj1\AbstractProj1\bin\Debug\net6.0\AbstractProj1.pdb
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.csproj.AssemblyReference.cache
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.AssemblyInfoInputs.cache
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.AssemblyInfo.cs
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.csproj.CoreCompileInputs.cache
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.dll
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\refint\AbstractProj1.dll
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.pdb
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\AbstractProj1.genruntimeconfig.cache
+D:\Coding and programs\AbstractProj1\AbstractProj1\obj\Debug\net6.0\ref\AbstractProj1.dll
